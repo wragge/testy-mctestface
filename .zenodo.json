@@ -1,0 +1,43 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "wragge/testy-mctestface",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/wragge/testy-mctestface/tree/v0.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/glam-coolness/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v0.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2022-02-18",
+  "creators": {
+    "creator_list": [
+        {
+            "name": "Surname, Givenname",
+            "orcid": ""
+        }
+    ]
+},
+  "access_right": "open",
+  "description": ""
+}
